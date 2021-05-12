@@ -10,7 +10,7 @@ spec:
     targetRevision: HEAD
     path: .
     kustomize:
-      version: v3.8.5
+      version: v3.9.4
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
